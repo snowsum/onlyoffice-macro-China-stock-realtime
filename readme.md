@@ -1,4 +1,4 @@
-This is a macro script to get realtime stock price from website "http://qt.gtimg.cn/q=s_" + stockNumber;
+This is a macro script to get realtime stock price from website API when you open the sheet
 
 This script do 4 things. 
 - Get stock number from the table, A1:A200
